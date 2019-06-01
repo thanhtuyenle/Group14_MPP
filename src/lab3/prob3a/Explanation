@@ -1,0 +1,3 @@
+The usage of inheritance does not make sense in this example since it clearly does not follow the two main criteria for the usage of inheritance.
+Firstly, there is not an "IS-A" relationship between these two classes (Circle IS NOT a Cylinder);
+Secondly, LSP principle is not being followed in this case. We cannot substitute the objects of these two classes.
