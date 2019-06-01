@@ -1,3 +1,0 @@
-hello
-Another hello feature development
-it should be bye bye .
